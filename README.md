@@ -5,3 +5,12 @@ Nguyễn Giang Linh- D21DCCN483
 Tạ Đăng Đạo
 
 Nguyễn Quang Duy
+
+* Chú ý định dạng sceen là 9:16 aspect ai chưa có định dạng thì tự tạo trong scene
+
+  Ui- UX game được thiết kế hoàn toàn bởi cả team, làm bằng Adobe Illustrator
+
+  Các thành viên dùng toàn bộ bằng phiên bản Unity 6000.0.51f1
+
+  Đồ án được hướng dẫn bởi cô Trịnh Thị Vân Anh
+  
